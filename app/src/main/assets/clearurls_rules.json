@@ -1,0 +1,19 @@
+{
+  "providers": [
+    {
+      "name": "default",
+      "rules": [
+        "utm_source",
+        "utm_medium",
+        "utm_campaign",
+        "utm_term",
+        "utm_content",
+        "fbclid",
+        "gclid",
+        "igshid",
+        "mc_cid",
+        "mc_eid"
+      ]
+    }
+  ]
+}

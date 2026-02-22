@@ -1,0 +1,4 @@
+# Sample seeded blacklist domains
+phishing-example.com
+malware-example.net
+fakebank-login.example
